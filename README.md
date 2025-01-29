@@ -8,3 +8,6 @@ There are two python library used in this project
 2. pandas
 
 Install this library in terminal using pip install openpyxl, pandas
+
+-> Important
+> Before diving into  this project, it is important to create a work.xlsx excel notebook in the same working directory/folder
